@@ -3,3 +3,4 @@ I live in Nyc for about 21 years.
 I am a gadget freak.
 I love watching movies on my spare time.
 I also love making music and eating food.
+logo alignment is centered.
